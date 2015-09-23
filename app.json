@@ -1,0 +1,6 @@
+{
+  "name": "Heroku Docker Playground",
+  "description": "An example app.json for heroku-docker",
+  "image": "heroku/nodejs",
+  "addons": []
+}

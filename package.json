@@ -1,0 +1,11 @@
+{
+  "name": "heroku-docker-playground",
+  "version": "1.0.0",
+  "description": "To learn [heroku-docker](https://devcenter.heroku.com/articles/docker) to Build, run and deploy Heroku apps with Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
